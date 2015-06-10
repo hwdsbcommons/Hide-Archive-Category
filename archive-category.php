@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Archive Category Reverse Order
+Plugin Name: Hide 'Archive' Category
 Plugin URI: http://commons.hwdsb.on.ca
 Description: Based heavily on the NANOWRIMO Category Reverse Order plugin. Hide posts from the home page if you categorize them as "archive". You need to create a category called "archive".
 Version: 1.0
-Author: r-a-y, mrjarbenne
+Author: r-a-y, mrjarbenne (kinda)
 Author URI: http://commons.hwdsb.on.ca
 
 /**
